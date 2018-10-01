@@ -1,0 +1,60 @@
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmLogin.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmNuevoPaciente.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmNuevoOdo.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\proyecto_Pav.frmOdontologo.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmPaciente.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmPrincipal.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.exe
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.pdb
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\TPS_InicioSesion.exe.config
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.exe
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.pdb
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csprojAssemblyReference.cache
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.frmLogin.resources
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.frmPrincipal.resources
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csproj.GenerateResource.cache
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csproj.CoreCompileInputs.cache
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\PAV1_AO_2018.exe.config
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\PAV1_AO_2018.exe
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\PAV1_AO_2018.pdb
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.Properties.Resources.resources
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.exe
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.pdb
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmOdontologos.resources
+D:\Mis archivos\UTN\3° Año\Programación de App Visuales I\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmNuevoOdontologo.resources
+C:\Users\Usuario\Downloads\PAV1_AO_2018\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\PAV1_AO_2018.exe.config
+C:\Users\Usuario\Downloads\PAV1_AO_2018\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.exe
+C:\Users\Usuario\Downloads\PAV1_AO_2018\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.pdb
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\PAV1_AO_2018.exe.config
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.exe
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.pdb
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmABMPacientes.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmABMPrestaciones.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmNuevoOdontologo.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmOdontologos.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.frmLogin.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmPaciente.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmPrestacion.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.frmPrincipal.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csproj.GenerateResource.Cache
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csprojAssemblyReference.cache
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUILayer.frmABMPacientes.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUILayer.frmNuevoOdontologo.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUILayer.frmOdontologos.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.frmLogin.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUILayer.frmPaciente.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUI.frmPrestacion.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.frmPrincipal.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.Properties.Resources.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csproj.GenerateResource.cache
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csproj.CoreCompileInputs.cache
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.exe
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.pdb
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.GUILayer.frmABMPrestaciones.resources
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\PAV1_AO_2018.exe.config
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\PAV1_AO_2018.exe
+C:\Users\fratt\OneDrive\Documents\UTN\3° Año\PAV1\PROYECTO\PAV1_AO_2018\TPS_InicioSesion\bin\Debug\PAV1_AO_2018.pdb
